@@ -28,12 +28,9 @@ double quotation marks around the value, unless specified otherwise.
 And run 'make workshop-check' *before* committing to make sure that changes are good.
 {% endcomment %}
 
-
-
 {% comment %}
 For a workshop please delete the following block
 {% endcomment %}
-
 
 {% comment %}
 Check DC curriculum
